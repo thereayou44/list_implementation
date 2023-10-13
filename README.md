@@ -1,2 +1,8 @@
-# list_implementation
-std list with iterators implementation
+#Лист(Проект 2 курса) 
+В этой задаче реализован шаблонный класс List<T, Allocator> аналог std::list из stl.
+Реализация основана на нодах (класс Node).
+Возможности листа:
+
+Базовую функциональность + итераторы
+Поддержку аллокаторов
+Быть exception-safety
